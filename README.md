@@ -1,5 +1,3 @@
-# Welcome to Zasoque
+# zasoque/.github
 
-자소크에 온 것을 환영합니다!
-
-자소크는 [사트](https://github.com/zeli-b)에 존재하는 가상 국가입니다.
+자소크 조직의 메인 페이지에 나오는 설명 부분을 표시하는 레포지토리입니다.
